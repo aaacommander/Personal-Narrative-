@@ -27,3 +27,20 @@ Sharpen example, when bringing the colors to their highest values betwen 0-225
 
 Colorize example shifting into their green blue and red values
 ![Screenshot6767](Screenshot6767.png)
+
+Sepia sets the colors to colors ranging from white, grey, and to black
+
+![Screenshotding](Screenshotding.png)
+
+Negative images sets the colors to a colder hue, whilst swaping where the areas of lighting and shadows appear
+
+![Screenshot10101](Screenshot10101.png)
+
+
+## Some of the major code
+Here is the code that would print the images and call each filter
+
+[SceneTwo](SceneTwo.java)
+
+Here is the code in which defines the code
+[ImageFilter](ImageFilter.java)
