@@ -21,7 +21,9 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 https://studio.code.org/projects/javalab/077a2d8b-3b14-4c53-a96e-5c70d543252e
 
 
-
 ## Image examples of filters
+Sharpen example, when bringing the colors to their highest values betwen 0-225
+![Screenshot090](Screenshot090.png)
 
-<>
+Colorize example shifting into their green blue and red values
+![Screenshot6767](Screenshot6767.png)
